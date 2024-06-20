@@ -14,19 +14,19 @@ Step 1: [SignUp](https://console.initializ.ai/register/) <br>
 <br>[![Sign Up](https://res.cloudinary.com/dd4xje8fc/image/upload/v1717773727/image_1_eaxyhp.png)](https://console.initializ.ai/register/)<br><br>
 Step 2: Verify Your Email<br><br>
 Step 3: [Sign In](https://console.initializ.ai/login/) <br><br>[![Sign In](https://res.cloudinary.com/dd4xje8fc/image/upload/v1717773726/image_2_pi56ah.png)](https://console.initializ.ai/login/)<br><br>
-Step 4: [Deploy on Initializ](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/i-tunes&repo_name=Developer-portfolio-template&description=♾️%20customizable%20Developer%20Portfolio%20Template&github=true)
+Step 4: [Deploy on Initializ](https://console.initializ.ai/create-app/?clone=https://github.com/initializ-templates/i-tunes&repo_name=i-tunes&description=♾️%20Audio%20ECommerce%20Store&github=true)
  
  
 ## How To Use
  
-From your command line, clone and run developerFolio:
+From your command line, clone and run i-tunes:
  
 ```bash
 # Clone this repository
-git clone https://github.com/initializ-templates/Developer-portfolio-template.git
+git clone https://github.com/initializ-templates/i-tunes.git
  
 # Go into the repository
-cd developerFolio
+cd i-tunes
  
 # Setup default environment variables
  
